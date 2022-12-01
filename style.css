@@ -2,9 +2,10 @@ body{
   background:pink;
 }
 td {
-     border: 1px solid pink;
+     background:blue;
+  border: 1px solid ;
      border-color: black;
-background:blue;
+
 }
   
 
